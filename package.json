@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cplan85/Bootstrap5-Fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cplan85/Bootstrap5-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/cplan85/Bootstrap5-Fundamentals#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
