@@ -2,8 +2,6 @@
 
 ## BARCELONA ACTIVA IT ACADEMY SPRINT 2 - Tutorial
 
-## CSS - Enunciat primer lliurament especialització
-
-Utilizing Bootstrap5 and SASS to modify default Bootstrap5 variables to create Responsive Testimonial Grid Layout from Frontend Mentor.
+Bootstrap5 and SASS is used to modify default Bootstrap5 default variables for [Testimonials Grid Section Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
 ![testimonial Grid Layout](./testimonialGridLayout.jpg)
