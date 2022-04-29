@@ -257,6 +257,12 @@ img {
             flex: 0 0 auto;
     width: 75%;
   }
+  .col-lg-12 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    width: 100%;
+  }
 }
 
 .card {
@@ -422,6 +428,10 @@ img {
   margin: 0 !important;
 }
 
+.mt-4 {
+  margin-top: 1.5rem !important;
+}
+
 .mb-3 {
   margin-bottom: 1rem !important;
 }
@@ -436,6 +446,10 @@ img {
 
 .fs-6 {
   font-size: 1rem !important;
+}
+
+.fw-bold {
+  font-weight: 700 !important;
 }
 
 .lh-1 {
